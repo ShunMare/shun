@@ -1,0 +1,10 @@
+diff a/work/responsive-site/assets/stylesheets/style.css b/work/responsive-site/assets/stylesheets/style.css	(rejected hunks)
+@@ -59,7 +59,7 @@
+   font-size: 18px;
+   color: #848484;
+ }
+-/* about */
++/* about */ 
+ .about__body__first{
+   overflow: hidden;
+   background-position: center;
